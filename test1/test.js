@@ -6,3 +6,4 @@ function division (x,y){
 }
 
 console.log("new branch");
+console.log("updated conflict");
