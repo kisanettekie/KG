@@ -4,5 +4,3 @@ function add (a,b){
 function division (x,y){
     return x / y;
 }
-
-console.log("hello");
